@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      {
+        "source": "/charity/:id",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/favorites",
+        "destination": "/index.html"
+      }
+    ]
+  }
+  
